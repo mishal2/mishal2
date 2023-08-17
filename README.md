@@ -1,4 +1,4 @@
- [![MasterHead](https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif)](https://mishal2.io)
+ [![MasterHead](https://contentstatic.techgig.com/photo/78474367/4-expert-tips-to-up-your-game-as-a-programmer.jpg?58220)](https://mishal2.io)
 <h1 align="center">Hi 👋, I'm Mohammad Mishal</h1>
 <h3 align="center">A passionate Full Stack developer from Mangalore,India</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
