@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mishalmohammad23@gmail.com**
 
-- ⚡  **I am Passionate**
+- ⚡  *************
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
